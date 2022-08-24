@@ -1,1 +1,2 @@
 Abhi is having a coding class with teacher Radhika.
+We are learning about git commands
